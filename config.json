@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "folder": "בארים",
+      "name": "בארים",
+      "order": 1,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "דונאטס",
+      "name": "דונאטס",
+      "order": 2,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "מארזים",
+      "name": "מארזים",
+      "order": 3,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "מגשים מעוצבים",
+      "name": "מגשים מעוצבים",
+      "order": 4,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "עוגות מספרים",
+      "name": "עוגות מספרים",
+      "order": 5,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "עוגות פאר",
+      "name": "עוגות פאר",
+      "order": 6,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "עוגות ראוה",
+      "name": "עוגות ראוה",
+      "order": 7,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "עוגיות מאפינס ממותגות",
+      "name": "עוגיות מאפינס ממותגות",
+      "order": 8,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "פטיפורים",
+      "name": "פטיפורים",
+      "order": 9,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "קינוחים",
+      "name": "קינוחים",
+      "order": 10,
+      "cover": "",
+      "imageOrder": [],
+      "subCategories": []
+    }
+  ],
+  "banner": [],
+  "imageMeta": {}
+}
