@@ -13,7 +13,7 @@
       "folder": "דונאטס",
       "name": "דונאטס",
       "order": 2,
-      "cover": "",
+      "cover": "דונאטס/16.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -21,7 +21,7 @@
       "folder": "מארזים",
       "name": "מארזים",
       "order": 3,
-      "cover": "",
+      "cover": "מארזים/38.1.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -29,7 +29,7 @@
       "folder": "מגשים מעוצבים",
       "name": "מגשים מעוצבים",
       "order": 4,
-      "cover": "",
+      "cover": "מגשים מעוצבים/1.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -45,7 +45,7 @@
       "folder": "עוגות פאר",
       "name": "עוגות פאר",
       "order": 6,
-      "cover": "",
+      "cover": "עוגות פאר/28.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -53,7 +53,7 @@
       "folder": "עוגות ראוה",
       "name": "עוגות ראוה",
       "order": 7,
-      "cover": "",
+      "cover": "עוגות ראוה/38.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -61,7 +61,7 @@
       "folder": "עוגיות מאפינס ממותגות",
       "name": "עוגיות מאפינס ממותגות",
       "order": 8,
-      "cover": "",
+      "cover": "עוגיות מאפינס ממותגות/31.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -69,7 +69,7 @@
       "folder": "פטיפורים",
       "name": "פטיפורים",
       "order": 9,
-      "cover": "",
+      "cover": "פטיפורים/35.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -77,7 +77,7 @@
       "folder": "קינוחים",
       "name": "קינוחים",
       "order": 10,
-      "cover": "",
+      "cover": "קינוחים/23.jpg",
       "imageOrder": [],
       "subCategories": []
     }
