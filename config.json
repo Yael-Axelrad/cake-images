@@ -7,20 +7,31 @@
       "order": 1,
       "cover": "",
       "imageOrder": [],
-      "subCategories": []
-    },
-    {
-      "folder": "דונאטס",
-      "name": "דונאטס",
-      "order": 2,
-      "cover": "דונאטס/16.jpg",
-      "imageOrder": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "folder": "בר מצוה ירוק סגול מהמממם",
+          "name": "בר מצוה ירוק סגול מהמממם",
+          "cover": "",
+          "imageOrder": []
+        },
+        {
+          "folder": "בת מצוה 2",
+          "name": "בת מצוה 2",
+          "cover": "",
+          "imageOrder": []
+        },
+        {
+          "folder": "בת מצווה 1",
+          "name": "בת מצווה 1",
+          "cover": "",
+          "imageOrder": []
+        }
+      ]
     },
     {
       "folder": "מארזים",
       "name": "מארזים",
-      "order": 3,
+      "order": 2,
       "cover": "מארזים/38.1.jpg",
       "imageOrder": [],
       "subCategories": []
@@ -28,7 +39,7 @@
     {
       "folder": "מגשים מעוצבים",
       "name": "מגשים מעוצבים",
-      "order": 4,
+      "order": 3,
       "cover": "מגשים מעוצבים/1.jpg",
       "imageOrder": [],
       "subCategories": []
@@ -36,7 +47,7 @@
     {
       "folder": "עוגות מספרים",
       "name": "עוגות מספרים",
-      "order": 5,
+      "order": 4,
       "cover": "",
       "imageOrder": [],
       "subCategories": []
@@ -44,16 +55,24 @@
     {
       "folder": "עוגות פאר",
       "name": "עוגות פאר",
-      "order": 6,
+      "order": 5,
       "cover": "עוגות פאר/28.jpg",
       "imageOrder": [],
       "subCategories": []
     },
     {
-      "folder": "עוגות ראוה",
-      "name": "עוגות ראוה",
+      "folder": "דונאטס",
+      "name": "דונאטס",
+      "order": 6,
+      "cover": "דונאטס/16.jpg",
+      "imageOrder": [],
+      "subCategories": []
+    },
+    {
+      "folder": "קינוחים",
+      "name": "קינוחים",
       "order": 7,
-      "cover": "עוגות ראוה/38.jpg",
+      "cover": "קינוחים/23.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -74,10 +93,10 @@
       "subCategories": []
     },
     {
-      "folder": "קינוחים",
-      "name": "קינוחים",
+      "folder": "עוגות ראוה",
+      "name": "עוגות ראוה",
       "order": 10,
-      "cover": "קינוחים/23.jpg",
+      "cover": "עוגות ראוה/38.jpg",
       "imageOrder": [],
       "subCategories": []
     }
