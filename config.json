@@ -5,19 +5,19 @@
       "folder": "בארים",
       "name": "בארים",
       "order": 1,
-      "cover": "",
+      "cover": "בארים/בר מצוה ירוק סגול מהמממם/7.jpg",
       "imageOrder": [],
       "subCategories": [
         {
           "folder": "בר מצוה ירוק סגול מהמממם",
           "name": "בר מצוה ירוק סגול מהמממם",
-          "cover": "",
+          "cover": "בארים/בר מצוה ירוק סגול מהמממם/7.jpg",
           "imageOrder": []
         },
         {
           "folder": "בת מצוה 2",
           "name": "בת מצוה 2",
-          "cover": "",
+          "cover": "בארים/בת מצוה 2/44.jpg",
           "imageOrder": []
         },
         {
@@ -61,10 +61,10 @@
       "subCategories": []
     },
     {
-      "folder": "דונאטס",
-      "name": "דונאטס",
+      "folder": "פטיפורים",
+      "name": "פטיפורים",
       "order": 6,
-      "cover": "דונאטס/16.jpg",
+      "cover": "פטיפורים/35.jpg",
       "imageOrder": [],
       "subCategories": []
     },
@@ -85,10 +85,10 @@
       "subCategories": []
     },
     {
-      "folder": "פטיפורים",
-      "name": "פטיפורים",
+      "folder": "דונאטס",
+      "name": "דונאטס",
       "order": 9,
-      "cover": "פטיפורים/35.jpg",
+      "cover": "דונאטס/16.jpg",
       "imageOrder": [],
       "subCategories": []
     },
