@@ -81,7 +81,10 @@
       "name": "קינוחים",
       "order": 7,
       "cover": "קינוחים/23.jpg",
-      "imageOrder": [],
+      "imageOrder": [
+        "img_4640.jpg",
+        "img_4630.jpg"
+      ],
       "subCategories": []
     },
     {
