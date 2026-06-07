@@ -65,7 +65,9 @@
       "name": "עוגות פאר",
       "order": 5,
       "cover": "עוגות פאר/28.jpg",
-      "imageOrder": [],
+      "imageOrder": [
+        "עוגה_סבתא.png"
+      ],
       "subCategories": []
     },
     {
